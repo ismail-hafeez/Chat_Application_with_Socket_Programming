@@ -1,0 +1,21 @@
+# Ignore compiled binaries
+TCP/server
+TCP/client
+UDP/server
+UDP/client
+
+# Ignore all object files
+*.o
+
+# Ignore build directories (if you make them later)
+build/
+bin/
+
+# Ignore temporary system files
+*.log
+*.out
+*.tmp
+
+# Ignore VSCode and OS metadata
+.vscode/
+.DS_Store
